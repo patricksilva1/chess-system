@@ -8,6 +8,7 @@ public class ChessPiece {
     public ChessPiece(Color color, int moveCount) {
         this.color = color;
         this.moveCount = moveCount;
+        
     }
 
     public Color getColor() {
